@@ -24,7 +24,7 @@ do_action( 'genesis_after' );
 wp_footer(); //* we need this for plugins
 ?>
 
-<div class="customfooter" style="text-align:center;"> Hello World - Want to play a game?</div>
+<div class="customfooter" style="text-align:center;"> Hello Cal State Long Beach - Want to play a game?</div>
 
 </body>
 </html>
